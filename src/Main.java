@@ -99,7 +99,7 @@ public class Main {
         int KrisYear = (int) KrisNew * 12;
         System.out.println( "Годовой доход Кристины теперь составляет " + KrisYear + " руб" );
         int KrisQueen = (int) KrisYear - ((int) Denis * 12);
-        System.out.println( "Кристина теперь получает " + KrisYear + " рублей. Годовой доход вырос на " + KrisNew + " руб");
+        System.out.println( "Кристина теперь получает " + KrisYear + " рублей. Годовой доход вырос на " + KrisNew + " руб!");
     }
 }
 
